@@ -1,9 +1,3 @@
-Web UI for Across.
-
-- App: <https://app.across.to>
-- Docs: <https://docs.across.to>
-- Medium: <https://medium.com/across-protocol>
-
 ## Development
 
 ### Requirements
